@@ -1,1 +1,1 @@
-# Jogo-de-Xadrez---Tema-3---Novato
+# Jogo-de-Xadrez---Tema-3
